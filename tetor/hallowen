@@ -1,0 +1,11 @@
+listaIme=['Xheiden', 80, 'ALB', True]
+#print(listaIme[-1])
+#print(listaIme[len(listaIme)-1])
+
+#per te gjurmuar indexin
+for count in range(0, len(listaIme)):
+    print(listaIme[count])
+
+#vetem per te kapur vlera
+for x in listaIme:
+    print(listaIme)
